@@ -1,0 +1,347 @@
+[
+  {
+    "name": "banana bread matcha",
+    "category": "matcha",
+    "image": "banana-bread-matcha.png",
+    "ingredients": [
+      "3g matcha",
+      "35g hot water",
+      "110ml milk",
+      "15g banana bread syrup"
+    ],
+    "instructions": [
+      "sift matcha into chawan.",
+      "add hot water and whisk in zig-zag motion, until frothy.",
+      "get a cup of ice and add the banana bread syrup and milk of choice.",
+      "pour the matcha on top and add more milk and/or syrup to your liking."
+    ]
+  },
+  {
+    "name": "blueberry matcha",
+    "category": "matcha",
+    "image": "blueberry-matcha.png",
+    "ingredients": [
+      "3g matcha",
+      "35g hot water",
+      "110ml milk",
+      "20g blueberry syrup"
+    ],
+    "instructions": [
+      "sift matcha into chawan.",
+      "add hot water and whisk in zig-zag motion, until frothy.",
+      "get a cup of ice and add the blueberry syrup and milk of choice.",
+      "pour the matcha on top and add more milk and/or syrup to your liking."
+    ],
+    "credit": {
+      "name": "@sweeetsips",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@sweeetsips/photo/7507100292387704094"
+    }
+  },
+  {
+    "name": "cookie butter matcha",
+    "category": "matcha",
+    "image": "cookie-butter-matcha.png",
+    "ingredients": [
+      "3g matcha",
+      "35g hot water",
+      "110ml milk",
+      "1 tbsp cookie butter"
+    ],
+    "instructions": [
+      "in a small bowl add the cookie butter and a splash of milk.",
+      "microwave in 10 second intervals until fully dissolved in the milk. put aside.",
+      "sift matcha into chawan.",
+      "add hot water and whisk in zig-zag motion, until frothy.",
+      "get a cup of ice and add the cookie butter mixture and milk of choice.",
+      "pour the matcha on top and add more milk and/or cookie butter to your liking."
+    ],
+    "credit": {
+      "name": "@sweeetsips",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@sweeetsips/photo/7507100292387704094"
+    }
+  },
+  {
+    "name": "earl grey matcha",
+    "category": "matcha",
+    "image": "earl-grey-matcha.png",
+    "ingredients": [
+      "3g matcha",
+      "35g hot water",
+      "110ml milk",
+      "15g earl grey syrup"
+    ],
+    "instructions": [
+      "sift matcha into chawan.",
+      "add hot water and whisk in zig-zag motion, until frothy.",
+      "get a cup of ice and add the earl grey syrup and milk of choice.",
+      "pour the matcha on top and add more milk and/or syrup to your liking."
+    ]
+  },
+  {
+    "name": "strawberry matcha",
+    "category": "matcha",
+    "image": "strawberry-matcha.png",
+    "ingredients": [
+      "3g matcha",
+      "35g hot water",
+      "110ml milk",
+      "20g strawberry syrup (or 2 spoons strawberry jam)"
+    ],
+    "instructions": [
+      "sift matcha into chawan.",
+      "add hot water and whisk in zig-zag motion, until frothy.",
+      "get a cup of ice and add the strawberry syrup (or strawberry jam) and milk of choice.",
+      "pour the matcha on top and add more milk and/or syrup to your liking."
+    ]
+  },
+  {
+    "name": "banana bread latte",
+    "category": "coffee",
+    "image": "banana-bread-latte.png",
+    "ingredients": [
+      "2 shots expresso",
+      "15g banana bread syrup",
+      "180g milk"
+    ],
+    "instructions": [
+      "pour expresso into a cup and mix in the banana bread syrup.",
+      "add in your choice of milk and top off with ice. add more banana bread syrup to your liking."
+    ]
+  },
+  {
+    "name": "brown sugar shaken expresso",
+    "category": "coffee",
+    "image": "brown-sugar-shaken-expresso.png",
+    "ingredients": [
+      "2 shots expresso",
+      "15g brown sugar syrup",
+      "1tsp cinnamon",
+      "180g milk"
+    ],
+    "instructions": [
+      "pour expresso into a mason jar full of ice.",
+      "add brown sugar syrup and cinnamon. close the lid and shake until combined.",
+      "top off with your choice of milk and shake more if needed. add more brown sugar syrup to your liking."
+    ]
+  },
+  {
+    "name": "caramel macchiato",
+    "category": "coffee",
+    "image": "caramel-macchiato.png",
+    "ingredients": [
+      "2 shots expresso",
+      "15g caramel sauce",
+      "10g vanilla syrup",
+      "180g milk"
+    ],
+    "instructions": [
+      "pour expresso into a cup and mix in the caramel sauce and vanilla syrup until fully dissolved.",
+      "add in your choice of milk and top off with ice. add more caramel and/or vanilla syrup to your liking."
+    ]
+  },
+  {
+    "name": "cookie butter latte",
+    "category": "coffee",
+    "image": "cookie-butter-latte.png",
+    "ingredients": [
+      "2 shots expresso",
+      "1 tbsp cookie butter",
+      "180g milk"
+    ],
+    "instructions": [
+      "add the cookie butter and a splash of milk into a cup.",
+      "microwave in 10 second intervals until fully dissolved in the milk.",
+      "add the rest of your milk and expresso to the cup and top with ice. add more cookie butter to your liking."
+    ]
+  },
+  {
+    "name": "banana bread syrup",
+    "category": "syrup",
+    "image": "banana-bread-syrup.png",
+    "ingredients": [
+      "2 bananas",
+      "1/2 cup brown sugar",
+      "1/4 cup water",
+      "1/2 cup maple syrup",
+      "1 tsp cinnamon",
+      "1 tsp vanilla extract"
+    ],
+    "instructions": [
+      "heat bananas in a pan with the sugar and water over medium heat. stir occasionally.",
+      "as banana warms up mash it into smaller pieces.",
+      "add maple syrup, cinnamon and vanilla extract. continue to simmer for 5 to 10 minutes.",
+      "remove syrup from stove and let it cool before blending. store in fridge for up to 2 weeks."
+    ],
+    "credit": {
+      "name": "@bevsbymelodi",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@bevsbymelodi/video/7538880420037905678"
+    }
+  },
+  {
+    "name": "blueberry syrup",
+    "category": "syrup",
+    "image": "blueberry-syrup.png",
+    "ingredients": [
+      "2 cup blueberries",
+      "1 cup water",
+      "1 cup white sugar",
+      "1 tsp lemon juice (optional)"
+    ],
+    "instructions": [
+      "mix blueberries, water and sugar together over low heat until sugar is dissolved.",
+      "increase to medium heat, stirring often until syrup thickens.",
+      "stir the lemon juice into the syrup and let it cool.",
+      "blend the syrup to get rid of blueberry chunks. store in fridge for up to 2 weeks."
+    ],
+    "credit": {
+      "name": "Vanessa Fregoso",
+      "platform": "allrecipes",
+      "url": "https://www.allrecipes.com/recipe/239712/blueberry-simple-syrup/"
+    }
+  },
+  {
+    "name": "brown sugar syrup",
+    "category": "syrup",
+    "image": "brown-sugar-syrup.png",
+    "ingredients": [
+      "1 cup brown sugar",
+      "1 cup water"
+    ],
+    "instructions": [
+      "add brown sugar and water to a pot and stir on low heat until fully dissolved.",
+      "simmer for 5 minutes then let it cool before using. store in fridge for up to 2 weeks."
+    ]
+  },
+  {
+    "name": "earl grey syrup",
+    "category": "syrup",
+    "image": "earl-grey-syrup.png",
+    "ingredients": ["3 earl grey tea bags", "1 cup water", "1 cup white sugar"],
+    "instructions": [
+      "add water to a pot and seep the earl grey tea bags. let it simmer for 10 minutes.",
+      "remove tea bags and add in the sugar. stir until dissolved.",
+      "continue to simmer for another 10 minutes.",
+      "remove syrup from stove and let it cool before using. store in fridge for up to 2 weeks."
+    ],
+    "credit": {
+      "name": "@melonpans",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@melonpans/video/7458083984485141806"
+    }
+  },
+  {
+    "name": "strawberry syrup",
+    "category": "syrup",
+    "image": "strawberry-syrup.png",
+    "ingredients": [
+      "2 cup strawberries",
+      "1 cup water",
+      "1 cup white sugar",
+      "1 tsp lemon juice (optional)"
+    ],
+    "instructions": [
+      "mix strawberries, water and sugar together over low heat until sugar is dissolved.",
+      "increase to medium heat, stirring often until syrup thickens.",
+      "stir the lemon juice into the syrup and let it cool.",
+      "blend the syrup to get rid of strawberry chunks. store in fridge for up to 2 weeks."
+    ]
+  },
+  {
+    "name": "vanilla syrup",
+    "category": "syrup",
+    "image": "vanilla-syrup.png",
+    "ingredients": [
+      "1 cup white sugar",
+      "1 cup water",
+      "2 tsp vanilla extract"
+    ],
+    "instructions": [
+      "mix sugar and water together over low heat until sugar is dissolved.",
+      "add vanilla extract and simmer for 5 minutes.",
+      "take syrup off the stove and let it cool. store in fridge for up to 2 weeks."
+    ]
+  },
+  {
+    "name": "blueberry cold foam",
+    "category": "cream",
+    "image": "blueberry-cold-foam.png",
+    "ingredients": [
+      "1 tbsp blueberry syrup",
+      "2 tbsp milk",
+      "3 tbsp heavy cream"
+    ],
+    "instructions": [
+      "add ingredients into a cup and froth. you can add more syrup to your liking.",
+      "top it on your drink. store in fridge for up to 1 week."
+    ]
+  },
+  {
+    "name": "cheese foam",
+    "category": "cream",
+    "image": "cheese-foam.png",
+    "ingredients": [
+      "25g cream cheese (room temperature)",
+      "2 tbsp heavy cream",
+      "1 tbsp milk",
+      "2 tsp sugar",
+      "1/4 tsp salt"
+    ],
+    "instructions": [
+      "place the cream cheese in a mixing bowl and add sugar and salt.",
+      "use a hand mixer to mix until light and fluffy.",
+      "add heavy cream and continue to whip until light and fluffy.",
+      "slowly add in the milk and continue mixing. you want a light, fluffy consistency. (not too thick)",
+      "add to your drink. store in fridge for up to 1 week."
+    ],
+    "credit": {
+      "name": "Cate",
+      "platform": "International Desserts Blog",
+      "url": "https://www.internationaldessertsblog.com/how-to-make-homemade-cheese-foam-for-milk-tea-cheese-tea/"
+    }
+  },
+  {
+    "name": "cookie butter cold foam",
+    "category": "cream",
+    "image": "cookie-butter-cold-foam.png",
+    "ingredients": [
+      "1 tbsp cookie butter",
+      "2 tbsp milk",
+      "3 tbsp heavy cream"
+    ],
+    "instructions": [
+      "add ingredients into a cup and froth. you can add more syrup to your liking. (recommended to warm up the cookie butter)",
+      "top it on your drink. store in fridge for up to 1 week."
+    ]
+  },
+  {
+    "name": "strawberry cold foam",
+    "category": "cream",
+    "image": "strawberry-cold-foam.png",
+    "ingredients": [
+      "1 tbsp strawberry syrup",
+      "2 tbsp milk",
+      "3 tbsp heavy cream"
+    ],
+    "instructions": [
+      "add ingredients into a cup and froth. you can add more syrup to your liking. (you can also use strawberry jam instead)",
+      "top it on your drink. store in fridge for up to 1 week."
+    ]
+  },
+  {
+    "name": "vanilla cold foam",
+    "category": "cream",
+    "image": "vanilla-cold-foam.png",
+    "ingredients": [
+      "1 tbsp vanilla syrup",
+      "2 tbsp milk",
+      "3 tbsp heavy cream"
+    ],
+    "instructions": [
+      "add ingredients into a cup and froth. you can add more syrup to your liking.",
+      "top it on your drink. store in fridge for up to 1 week."
+    ]
+  }
+]

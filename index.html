@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>cozy sips</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+  <!-- Ensure proper scaling on mobile devices; makes CSS media queries work correctly -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS imports: Google font and custom css -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>cozy sips</h1>
+
+  <!-- Buttons for filtering recipes by category -->
+  <div class="buttons">
+    <button data-category="matcha">
+      <img src="images/buttons/matcha-button.png" alt="Matcha" class="button-img">
+      <span>Matcha</span>
+    </button>
+    <button data-category="coffee">
+      <img src="images/buttons/coffee-button.png" alt="Coffee" class="button-img">
+      <span>Coffee</span>
+    </button>
+    <button data-category="syrup">
+      <img src="images/buttons/syrup-button.png" alt="Syrup" class="button-img">
+      <span>Syrup</span>
+    </button>
+    <button data-category="cream">
+      <img src="images/buttons/cream-button.png" alt="Cream" class="button-img">
+      <span>Cream</span>
+    </button>
+  </div>
+
+  <!-- Search bar for filtering recipes by name -->
+  <div class="search-container">
+    <input type="text" id="search-bar" placeholder="search recipes...">
+  </div>
+
+  <!-- Recipe list that will dynamically populate based on filter -->
+  <div class="recipe-container">
+    <ul id="recipe-list"></ul>
+  </div>
+  
+  <!-- JS imports: jQuery, and custom script -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
